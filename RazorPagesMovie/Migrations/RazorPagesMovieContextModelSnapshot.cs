@@ -20,7 +20,7 @@ namespace RazorPagesMovie.Migrations {
                 b.Property<int>("ID")
                     .ValueGeneratedOnAdd()
                     .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-                //teste
+                //teste2
 
                 b.Property<string>("Genre");
 
